@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Textile Quality Inspector 🧵
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
@@ -111,3 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *   **Dataset:** [Fabric Defect Dataset](https://www.kaggle.com/datasets/rmshashi/fabric-defect-dataset) by rmshashi.
 *   **Ultralytics:** For the amazing YOLOv8 library.
 *   **Google:** For the Gemini API.
+=======
+"# smart-textile-inspector" 
+>>>>>>> 099cc6b5569b5da4a62ce78f85eaeca761eb4598
