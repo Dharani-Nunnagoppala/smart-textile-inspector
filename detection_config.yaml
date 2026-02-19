@@ -1,0 +1,9 @@
+names:
+- Horizontal
+- Vertical
+- Hole
+- Lines
+- Hole_variant
+path: ./yolo_data/detection
+train: images/train
+val: images/val

@@ -1,0 +1,9 @@
+names:
+- Horizontal
+- Vertical
+- Hole
+- Lines
+- Hole_variant
+path: ./yolo_data/classify
+train: train
+val: val
